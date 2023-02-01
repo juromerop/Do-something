@@ -1,0 +1,14 @@
+.CreateToDoButton {
+  background-color:rgba(126, 19, 128, 0.554);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 22px;
+  font-weight: bold;
+}
