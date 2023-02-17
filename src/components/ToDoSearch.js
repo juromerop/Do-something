@@ -3,7 +3,7 @@ import '../styles/ToDoSearch.css'
 
 function ToDoSearch() {
   return (
-    <input className='ToDoSearchButton' />
+    <input className='ToDoSearch' placeholder='Search' />
   )
 }
 

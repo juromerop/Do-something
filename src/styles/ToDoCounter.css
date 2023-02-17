@@ -2,5 +2,6 @@
   font-size: 1.5em;
   text-align: center;
   font-weight: bold;
-  color: rgba(126, 19, 128, 0.554);
+  /* color: rgba(126, 19, 128, 0.554); */
+  font-family: Tahoma; 
 }
