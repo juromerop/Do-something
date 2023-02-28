@@ -16,7 +16,7 @@ function App() {
           <ToDoTitle />
           <ToDoCounter />
         </Grid2>
-        <Grid2 xs={4}>
+        <Grid2 xs={4} className="card">
           <ToDoSearch />
           <ToDoList>
             {[1, 2, 3].map((toDo) => (

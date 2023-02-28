@@ -1,9 +1,10 @@
 import React from 'react'
+import '../styles/ToDoTitle.css'
 
 function ToDoTitle(){
   return (
     <>
-        <h1>Do something</h1>
+        <h1>Do Something</h1>
     </>
   )
 }

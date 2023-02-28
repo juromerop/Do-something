@@ -1,7 +1,7 @@
 .ToDoCounter {
   font-size: 1.5em;
-  /* text-align: center; */
   font-weight: bold;
-  /* color: rgba(126, 19, 128, 0.554); */
-  font-family: Tahoma; 
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  font-weight: 100;
 }
