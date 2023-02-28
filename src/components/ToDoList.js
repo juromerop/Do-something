@@ -8,16 +8,19 @@ function ToDoList(props) {
       <h2 className="ToDoList-title">Lista de tareas</h2>
       <ul className="ToDoList-list">
         <li className="ToDoList-item">
-          <p>Comprar leche</p>
-          <Switch />
+          <p>
+            Comprar leche <Switch />
+          </p>
         </li>
         <li className="ToDoList-item">
-          <p>Comprar pan</p>
-          <Switch />
+          <p>
+            Comprar pan <Switch />
+          </p>
         </li>
         <li className="ToDoList-item">
-          <p>Comprar huevos</p>
-          <Switch />
+          <p>
+            Comprar huevos <Switch />
+          </p>
         </li>
       </ul>
     </div>

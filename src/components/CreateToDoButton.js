@@ -1,11 +1,10 @@
 import React from 'react'
 import '../styles/CreateToDoButton.css'
+import Button from '@mui/material/Button';
 
 function CreateToDoButton(props) {
   return (
-    <button className="CreateToDoButton">
-      +
-    </button>
+    <Button variant="contained">add</Button>
   )
 }
 
