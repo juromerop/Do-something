@@ -2,6 +2,9 @@ import React from "react";
 import "../styles/ToDoList.css";
 import Switch from "@mui/material/Switch";
 
+// var randomColor = require('randomcolor'); // import the script
+// var color = randomColor(); 
+
 function ToDoList(props) {
   return (
     <div className="ToDoList">

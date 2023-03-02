@@ -14,7 +14,7 @@ function App() {
     <React.Fragment>
       <Box
       display="flex"
-      marginTop={20}
+      marginTop={25}
       >
         <Grid2 container spacing={5}>
           <Grid2 xs={8}>
