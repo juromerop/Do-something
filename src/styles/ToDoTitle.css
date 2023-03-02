@@ -3,3 +3,8 @@ h1 {
   font-size: 6.5em;
   line-height: 1em;
 }
+@media (max-width: 768px) {
+  h1{
+      display: none;
+  }
+}

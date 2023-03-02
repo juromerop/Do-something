@@ -5,3 +5,8 @@
   font-style: italic;
   font-weight: 100;
 }
+@media (max-width: 768px) {
+  .ToDoCounter{
+      display: none;
+  }
+}
