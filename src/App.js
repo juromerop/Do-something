@@ -17,7 +17,7 @@ function App() {
       marginTop={25}
       >
         <Grid2 container spacing={5}>
-          <Grid2 xs={8} className="Title">
+          <Grid2 xs={8} >
             <ToDoTitle />
             <ToDoCounter />
           </Grid2>
